@@ -1,7 +1,7 @@
-streamlit
+langchain-community
+langchain-core
 pymupdf
-sentence-transformers
 faiss-cpu
-transformers
-torch
-langchain
+sentence-transformers
+huggingface_hub
+python-dotenv
